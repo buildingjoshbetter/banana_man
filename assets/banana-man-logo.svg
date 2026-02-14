@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Banana Man logo">
+  <path
+    d="M80 30
+       C35 55 35 140 90 170
+       C135 190 175 155 170 110
+       C165 70 135 30 100 25
+       C93 24 86 26 80 30
+       C100 45 125 78 130 108
+       C135 138 120 160 95 150
+       C60 135 60 75 80 45
+       C83 40 87 35 92 31
+       C88 30 84 30 80 30
+       Z"
+    fill="#FFE135"
+    stroke="#000"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+
+  <path
+    d="M92 18
+       C88 10 95 5 105 10
+       C112 14 112 24 106 28
+       C101 31 95 27 92 18
+       Z"
+    fill="#8B5A2B"
+    stroke="#000"
+    stroke-width="4"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+</svg>
